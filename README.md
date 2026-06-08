@@ -11,12 +11,16 @@ Incoming Computer Science undergraduate specializing in full-stack architectures
 
 ---
 
+---
+
 ### 📊 Real-Time Git Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Victor's Git Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Victor's Top Languages" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api?username=viktor-at-dev&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Victor's Git Stats" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=viktor-at-dev&layout=compact&theme=tokyonight&v=1" alt="Victor's Top Languages" height="190" />
 </p>
+
+---
 
 ---
 
